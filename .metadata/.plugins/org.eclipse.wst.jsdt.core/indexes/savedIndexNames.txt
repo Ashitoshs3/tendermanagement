@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Data\Study\Projects\Final Project for GCOC\tendermanagement-main\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2025392482.index
+2067855079.index
+65652133.index
+460916449.index
+2114907838.index
