@@ -73,4 +73,20 @@
             <version>8.0.28</version>
         </dependency>
     </dependencies>
+
+         <distributionManagement>
+	
+	    <repository>
+	      <id>nexus</id>
+	      <name>Maven WebApp Releases Nexus Repository</name>
+	      <url>http://172.31.38.180:8983/gcoc/repository/maven-web-app-release-training/</url>
+	    </repository>
+	    
+	    <snapshotRepository>
+	      <id>nexus</id>
+	      <name>Maven WebApp Snapshot Nexus Repository </name>
+	      <url>http://172.31.38.180:8983/gcoc/repository/maven-web-app-snapshot-training/</url>
+	    </snapshotRepository>
+	    
+	</distributionManagement>
 </project>
